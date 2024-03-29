@@ -18,7 +18,13 @@ In this home lab project, I'll be walking you through the process of setting up 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download and Install Orcale Virtual Box, Windows 10 and Sever 2019: <br/>
+
+<h2>Diagram: </h2>
+
+
+ 
+<h2>Download and Install Orcale Virtual Box, Windows 10 and Sever 2019: </h2>
+
 Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads <br/>
 Sever 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 <br/>
 Windows 10: https://www.microsoft.com/en-us/software-download/windows10 <br/>
