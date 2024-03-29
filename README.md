@@ -19,8 +19,8 @@ In this home lab project, I'll be walking you through the process of setting up 
 
 <p align="center">
 Download and Install Orcale Virtual Box, Windows 10 and Sever 2019: <br/>
-Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads
-Sever 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads <br/>
+Sever 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 <br/>
 Windows 10: https://www.microsoft.com/en-us/software-download/windows10 <br/>
 <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
