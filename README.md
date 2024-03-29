@@ -20,16 +20,31 @@ In this home lab project, I'll be walking you through the process of setting up 
 <p align="center">
 
 <h2>Diagram: </h2>
+<img src="https://imgur.com/oNyNXTX.png" height="80%" width="80%" alt="Diagram"/>
 
-
- 
-<h2>Download and Install Orcale Virtual Box, Windows 10 and Sever 2019: </h2>
-
+<h2> 1. Download and Install Orcale Virtual Box, Windows 10 and Sever 2019: </h2>
 Orcale Virtual Box: https://www.virtualbox.org/wiki/Downloads <br/>
 Sever 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 <br/>
 Windows 10: https://www.microsoft.com/en-us/software-download/windows10 <br/>
-<br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<h2> 2. Setup the Virtual Machine and Add two Network Adapters: </h2>
+
+Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller(DC)", and selecting the "Windows Server 2019" ISO file as the boot media.<br/>
+
+<img src="https://imgur.com/4wSNCOz.png" height="80%" width="80%" alt="DC"/>
+
+<img src="https://imgur.com/fRIsaDs.png" height="80%" width="80%" alt="Hardware"/>
+
+<img src="https://imgur.com/DTSerxo.png" height="80%" width="80%" alt="Size"/>
+
+Configure the virtual machine by giving it two network adapters: one for connecting to the internet and the other for the private network.<br/>
+
+<img src="https://imgur.com/XYT79Hj.png" height="80%" width="80%" alt="NET1"/>
+
+<img src="https://imgur.com/veRrLQW.png" height="80%" width="80%" alt="NET2"/>
+
+<h2> 3. Install Server 2019 on the VM and assign IP addressing for the internal network: </h2>
 <br />
 <br />
 
