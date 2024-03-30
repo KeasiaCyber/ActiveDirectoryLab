@@ -47,10 +47,10 @@ Configure the virtual machine by giving it two network adapters: one for connect
 <h2> 3. Install Server 2019 on the VM and assign IP addressing for the internal network: </h2>
 
 Change the name of your two adapters and make sure ones connected to internet and the other is internal 
-<img src="https://imgur.com/b9BOVcc" height="80%" width="80%" alt="NATn1"/>
+<img src="https://i.imgur.com/b9BOVcc.jpeg" height="80%" width="80%" alt="NATn1"/>
 
 Assign IP address to internal network X_INTERNET_X the second one.
-<img src="https://imgur.com/nO241kQ" height="80%" width="80%" alt="NATn2"/>
+<img src="https://i.imgur.com/nO241kQ.jpeg" height="80%" width="80%" alt="NATn2"/>
 <br />
 <br />
 
