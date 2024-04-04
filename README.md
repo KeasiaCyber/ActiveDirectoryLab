@@ -50,7 +50,7 @@ Change the name of your two adapters and make sure ones connected to internet an
 <img src="https://i.imgur.com/b9BOVcc.jpeg" height="80%" width="80%" alt="NATn1"/>
 
 Assign IP address to internal network X_INTERNET_X the second one.
-<img src="https://i.imgur.com/nO241kQ.jpeg" height="80%" width="80%" alt="NATn2"/>
+<img src="https://imgur.com/NzUH4eX.jpeg" height="80%" width="80%" alt="NATn2"/>
 <br />
 <br />
 
