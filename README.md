@@ -46,21 +46,39 @@ Configure the virtual machine by giving it two network adapters: one for connect
 
 <h2> 3. Install Server 2019 on the VM and assign IP addressing for the internal network: </h2>
 
-Change the name of your two adapters and make sure ones connected to internet and the other is internal 
+Change the name of your two adapters and make sure ones connected to internet and the other is internal<br/>
 <img src="https://i.imgur.com/b9BOVcc.jpeg" height="80%" width="80%" alt="NATn1"/>
 
-Assign IP address to internal network X_INTERNET_X the second one.
+Assign IP address to internal network X_INTERNET_X the second one.<br/>
 <img src="https://imgur.com/NzUH4eX.jpeg" height="80%" width="80%" alt="NATn2"/>
 <br />
 <br />
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2> 4. Setup Domain / AD DS : </h2>
+Install Active Directory Domain Services <br/>
+<img src="https://imgur.com/Xc2bs0U.jpeg" height="80%" width="80%" alt="INSTALL AD DS"/>
+<img src="https://imgur.com/MIm1sfO.jpeg" height="80%" width="80%" alt="INSTALL AD DS 2"/>
+
+See the flag we now have to config a DC for our services by clicking that <br/>
+<img src="https://imgur.com/P4jARVA.png" height="80%" width="80%" alt="Yellow Flag"/>
+
+Add a new forest and create a password <br/>
+<img src="https://imgur.com/8gYWj0k.png" height="80%" width="80%" alt="DC NAME SET"/>
+<img src="https://imgur.com/WGXgpfW.png" height="80%" width="80%" alt="DC NAME SET"/>
+
+Click Start and go to Active Directory User and Computers, Setup an organzation unit for the Admin <br/>
+<img src="https://imgur.com/HFnbwwf.png" height="80%" width="80%" alt="USER AND COMPUTERS 1"/>
+<img src="https://imgur.com/8lABKY4.png" height="80%" width="80%" alt="USER AND COMPUTERS 2"/>
+<img src="https://imgur.com/DZE1UBy.png" height="80%" width="80%" alt="USER AND COMPUTERS 3"/>
+
+ADD users to the Admin sections that was created and make the user a admin<br/>
+<img src="https://imgur.com/X2wVwsY.png" height="80%" width="80%" alt="USER AND COMPUTERS 4"/>
+<img src="https://imgur.com/lgm2gYg.png" height="80%" width="80%" alt="USER AND COMPUTERS 5"/>
+
+Right click and go Properties then click on member of ADD, TYPE domain admins and check the name then click ok and apply. Restart VM and sign in to the user you created<br/>
+<img src="https://imgur.com/3Mi3WCG.png" height="80%" width="80%" alt="USER AND COMPUTERS 6"/>
+<br/>
+<br/>
+<br/>
+<br/>
