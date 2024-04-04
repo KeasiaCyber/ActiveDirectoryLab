@@ -1,4 +1,4 @@
-<h1>💻 Active Directory Home Lab</h1>
+<h1>💻 Active Directory Home Lab 💾</h1>
 
 <h2>Description</h2>
 In this home lab project, I'll be walking you through the process of setting up an Active Directory environment using Oracle VirtualBox. By following this tutorial by Josh Madakor (https://www.youtube.com/@JoshMadakor), we'll gain a deeper understanding of how Active Directory and Windows networking function works. Let's dive in and explore together how to set up this essential infrastructure.
