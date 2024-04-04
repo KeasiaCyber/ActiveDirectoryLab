@@ -13,7 +13,7 @@ In this home lab project, I'll be walking you through the process of setting up 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Sever 2019</b>
+- <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
