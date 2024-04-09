@@ -78,7 +78,31 @@ ADD users to the Admin sections that was created and make the user a admin<br/>
 
 Right click and go Properties then click on member of ADD, TYPE domain admins and check the name then click ok and apply. Restart VM and sign in to the user you created<br/>
 <img src="https://imgur.com/3Mi3WCG.png" height="80%" width="80%" alt="USER AND COMPUTERS 6"/>
+
+
+<h2> 5. Configuring RAS / NAT: </h2>
+Set up routing to enable clients on the private network to reach the internet via the domain controller.<br/>
+<img src="https://imgur.com/xubaQBp.png" height="80%" width="80%" alt="RASNAT 1"/>
+<img src="https://imgur.com/NpOFtwu.png" height="80%" width="80%" alt="RASNAT 2"/>
+<img src="https://imgur.com/lL5ttmZ.png" height="80%" width="80%" alt="RASNAT 3"/>
+<img src="https://imgur.com/lp2qfqU.png" height="80%" width="80%" alt="RASNAT 4"/>
+
+
+<h2> 6. Setup DHCP Scope for the domain controller(DC): </h2>
 <br/>
+<img src="https://imgur.com/RexGA3K.png" height="80%" width="80%" alt="DHCP 1"/>
+<img src="https://imgur.com/Mtgf5Ci.png" height="80%" width="80%" alt="DHCP 2"/>
+<img src="https://imgur.com/lL5ttmZ.png" height="80%" width="80%" alt="DHCP 3"/>
+
+
+Download and run Power Script<br/>
+<img src="https://imgur.com/aTkgCsi.png" height="80%" width="80%" alt="PS 1"/>
+<img src="https://imgur.com/VE6sbsN.png" height="80%" width="80%" alt="PS 2"/>
+
+
+
+<h2> 7. Create another VM and install Windows 10: </h2>
 <br/>
-<br/>
-<br/>
+<img src=".png" height="80%" width="80%" alt="win 1"/>
+
+
