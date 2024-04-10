@@ -115,7 +115,13 @@ Make sure to add the ip address before clicking next, i made that mistake and co
 
 
 <h2> 7. Create another VM and install Windows 10: </h2>
-<br/>
-<img src=".png" height="80%" width="80%" alt="win 1"/>
+ Make sure to go to settings for the VM and change the NAT to internal.<br/>
+ <img src="https://imgur.com/rdgUfl8.png" height="80%" width="80%" alt="win 1"/>
+
+ 
+Once  Windows 10 is install it will be connected to the domain to check just ping in the cmd, now change the pc name and <br/>
+<img src="https://imgur.com/QEcqDKk.png" height="80%" width="80%" alt="win 2"/>
+<img src="https://imgur.com/nfF0rbx.png" height="80%" width="80%" alt="win 3"/>
+
 
 
