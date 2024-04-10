@@ -84,18 +84,31 @@ Right click and go Properties then click on member of ADD, TYPE domain admins an
 Set up routing to enable clients on the private network to reach the internet via the domain controller.<br/>
 <img src="https://imgur.com/xubaQBp.png" height="80%" width="80%" alt="RASNAT 1"/>
 <img src="https://imgur.com/NpOFtwu.png" height="80%" width="80%" alt="RASNAT 2"/>
-<img src="https://imgur.com/lL5ttmZ.png" height="80%" width="80%" alt="RASNAT 3"/>
-<img src="https://imgur.com/lp2qfqU.png" height="80%" width="80%" alt="RASNAT 4"/>
+<img src="https://imgur.com/RO59b2Q.png" height="80%" width="80%" alt="RASNAT 3"/>
+<img src="https://imgur.com/GahgXsm.png" height="80%" width="80%" alt="RASNAT 4"/>
+<img src="https://imgur.com/NaB3pSP.png" height="80%" width="80%" alt="RASNAT 5"/>
+<img src="https://imgur.com/lL5ttmZ.png" height="80%" width="80%" alt="RASNAT 6"/>
+You may have to right click and authorized it and refresh it so the green arrow will appear <br/>
+<img src="https://imgur.com/lp2qfqU.png" height="80%" width="80%" alt="RASNAT 7"/>
 
 
 <h2> 6. Setup DHCP Scope for the domain controller(DC): </h2>
-<br/>
-<img src="https://imgur.com/RexGA3K.png" height="80%" width="80%" alt="DHCP 1"/>
-<img src="https://imgur.com/Mtgf5Ci.png" height="80%" width="80%" alt="DHCP 2"/>
-<img src="https://imgur.com/lL5ttmZ.png" height="80%" width="80%" alt="DHCP 3"/>
+If we review the diagram above at begin we need to setup ip address from dhcp scope diagram<br/>
+<img src="https://imgur.com/iKGlkJc.png" height="80%" width="80%" alt="DHCP 1"/>
+<img src="https://imgur.com/gnQWn7H.png" height="80%" width="80%" alt="DHCP 2"/>
+<img src="https://imgur.com/Q2wv5DP.png" height="80%" width="80%" alt="DHCP 3"/>
+<img src="https://imgur.com/cW7RBsl.png" height="80%" width="80%" alt="DHCP 4"/>
+<img src="https://imgur.com/Ka63s66.png" height="80%" width="80%" alt="DHCP 5"/>
+<img src="https://imgur.com/BgAIW0e.png" height="80%" width="80%" alt="DHCP 6"/>
+Make sure to add the ip address before clicking next, i made that mistake and couldnt figure out why the lab stop working !<br/>
+<img src="https://imgur.com/1seUF9L.png" height="80%" width="80%" alt="DHCP 7"/>
+<img src="https://imgur.com/GwirEvM.png" height="80%" width="80%" alt="DHCP 8"/>
+<img src="https://imgur.com/7ZQs2Vd.png" height="80%" width="80%" alt="DHCP 9"/>
 
 
-Download and run Power Script<br/>
+
+
+<h2> 7. Download and run PowerShell Script ISE: </h2>
 <img src="https://imgur.com/aTkgCsi.png" height="80%" width="80%" alt="PS 1"/>
 <img src="https://imgur.com/VE6sbsN.png" height="80%" width="80%" alt="PS 2"/>
 
