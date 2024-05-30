@@ -1,7 +1,7 @@
 <h1>💻 Active Directory Home Lab 💾</h1>
 
 <h2>Description</h2>
-In this home lab project, I'll be walking you through the process of setting up an Active Directory environment using Oracle VirtualBox. By following this tutorial by Josh Madakor (https://www.youtube.com/@JoshMadakor), we'll gain a deeper understanding of how Active Directory and Windows networking function works. Let's dive in and explore together how to set up this essential infrastructure.
+In this home lab project, I'll be walking you through the process of setting up an Active Directory environment using Oracle VirtualBox., we'll gain a deeper understanding of how Active Directory and Windows networking function works. Let's dive in and explore together how to set up this essential infrastructure.
 <br />
 
 
@@ -108,7 +108,7 @@ Make sure to add the ip address before clicking next, i made that mistake and co
 
 
 
-<h2> 7. Download and run PowerShell Script ISE: </h2>
+<h2> 7. Create and run PowerShell Script ISE: </h2>
 <img src="https://imgur.com/aTkgCsi.png" height="80%" width="80%" alt="PS 1"/>
 <img src="https://imgur.com/VE6sbsN.png" height="80%" width="80%" alt="PS 2"/>
 
