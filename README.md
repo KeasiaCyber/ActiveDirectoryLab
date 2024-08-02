@@ -119,7 +119,7 @@ Make sure to add the IP address before clicking next, I made that mistake and co
  <img src="https://imgur.com/rdgUfl8.png" height="80%" width="80%" alt="win 1"/>
 
  
-Once  Windows 10 is installed it will be connected to the domain to check just ping in the cmd, now change the pc name, and <br/>
+Once  Windows 10 is installed it will be connected to the domain to check just ping in the cmd, now change the pc name, and we're done.<br/>
 <img src="https://imgur.com/QEcqDKk.png" height="80%" width="80%" alt="win 2"/>
 <img src="https://imgur.com/nfF0rbx.png" height="80%" width="80%" alt="win 3"/>
 
